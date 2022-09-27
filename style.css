@@ -40,3 +40,13 @@ h1 {
     cursor: pointer;
 
 }
+
+.btn:hover {
+    color: yellow;
+}
+
+.btn:active {
+    background-size: 105%;
+
+}
+
